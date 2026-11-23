@@ -56,7 +56,7 @@ The sidebar has three presets (**Underfit**, **Overfit**, **Fixed**) to reproduc
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/city-hospital-live-training-dashboard.git
+git clone https://github.com/LaibaMir1/city-hospital-live-training-dashboard.git
 cd city-hospital-live-training-dashboard
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
