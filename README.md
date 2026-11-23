@@ -1,7 +1,5 @@
 # Live training dashboard
 
-*Part 7 · Project 5*
-
 **Client:** City Hospital
 **Goal:** let staff watch a neural network train, see when it underfits or overfits, fix it live, and then use the finished model to screen patients it has never seen.
 
